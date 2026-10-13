@@ -1,1 +1,4 @@
 Docs/
+__pycache__/
+*.pyc
+.venv/

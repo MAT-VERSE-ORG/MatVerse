@@ -86,10 +86,10 @@ pip install -r requirements.txt
 Execute the primary script from the root directory:
 
 ```bash
-python app.py
+streamlit run app.py
 
 ```
 
-*(If running via Streamlit, use `streamlit run app.py`)*
+*(If running via Streamlit, use `python run app.py`)*
 
 ---

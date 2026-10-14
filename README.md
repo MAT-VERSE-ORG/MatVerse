@@ -90,6 +90,4 @@ streamlit run app.py
 
 ```
 
-*(If running via Streamlit, use `python run app.py`)*
-
 ---
